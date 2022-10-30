@@ -1,4 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+const app = createApp(App)
+
+const {worker} = require('@/mocks/browser')
+worker.start()
+
+app.mount('#app')

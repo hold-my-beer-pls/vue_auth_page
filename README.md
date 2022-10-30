@@ -1,3 +1,6 @@
+# email - admin@admin.com
+# password - admin
+
 # vue_start
 
 ## Project setup

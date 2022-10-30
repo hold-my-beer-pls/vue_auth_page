@@ -1,5 +1,5 @@
-# email - admin@admin.com
-# password - admin
+### email - admin@admin.com
+### password - admin
 
 # vue_start
 
